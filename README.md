@@ -1,6 +1,6 @@
 ### Hi, I'm Triumph
 
-## I'm a Student and Developer
+## I'm a Frontend Developer
 - I'm a front-end developer skilled in *HTML,CSS,SCSS,JAVASCRIPT*
 - I'm also looking to collaborate with other programmers on other projects
 
